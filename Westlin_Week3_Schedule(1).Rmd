@@ -1,0 +1,25 @@
+---
+title: "Markdown Schedule"
+subtitle: "Week 3 Activity"
+author: "Tabitha Westlin"
+date: "09/15/2024"
+output: html_notebook
+---
+
+# Schedule
+
+### [STAT 184 Introduction to R] (https://en.wikipedia.org/wiki/RStudio) (https://www.google.com/url?sa=i&url=https%3A%2F%2Facademy.vertabelo.com%2Fblog%2Fnew-vertabelo-academy-course-learn-r-with-introduction-to-r%2F&psig=AOvVaw0ziaQRbHIB0kJgdVExDHub&ust=1726524280052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCpnab6xYgDFQAAAAAdAAAAABAE)
+
+This semester, I am taking STAT 184, which focuses on Introduction to R. This course covers the basics of R programming, including data manipulation, visualization, and statistical analysis. It’s an essential course for my data analytics program as it lays the groundwork for more advanced statistical techniques.
+
+
+### [UMA Finanical Advisor] (https://en.wikipedia.org/wiki/Ultimate_Medical_Academy)
+
+I work 40 hours a week as a Student Financial Advisor at UMA. This position allows me to gain hands-on experience in financial advising, supporting students with their financial needs, and applying my knowledge in a practical setting. It’s a valuable role that complements my academic studies.
+
+
+### [HHN] (https://en.wikipedia.org/wiki/Universal%27s_Halloween_Horror_Nights)
+
+One of my favorite activities is attending Halloween Horror Nights (HHN) at Universal Studios. This annual event is known for its thrilling haunted houses, scare zones, and immersive experiences. It’s a fun way to enjoy the Halloween season and experience some unique entertainment.
+
+
